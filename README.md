@@ -1,8 +1,6 @@
 ![téléchargement](https://user-images.githubusercontent.com/71290411/113884646-6e4cb280-97bf-11eb-9e69-15db416df91b.jpeg)
 
 - 👋 Hi, I’m @DJEMAA-Sofiane
-- 👀 I’m interested in database.
-- 💻 I’m currently learning the principles of IT.
 - 📱 https://www.linkedin.com/in/djemaasofiane/
 
 <!---
